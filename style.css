@@ -651,6 +651,7 @@ margin-left: 89px;
 
 .subscription-icon {
     margin-left: 10px;
+    fill: var(--animation-color);
 }
 
 /* portfolio */
